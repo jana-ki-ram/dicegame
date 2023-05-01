@@ -25,3 +25,12 @@ div{
   margin-top: 25px;
   display: block;
 }
+button{
+  display: block;
+  background-color: red;
+  color:white;
+  font-size: 1.5rem;
+margin:25px auto;
+padding:15px;
+border-radius: 20%;
+}
